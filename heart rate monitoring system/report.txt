@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-F_Cu.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-B_Cu.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-F_Paste.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-B_Paste.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-F_Mask.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-B_Mask.gbr'.
+Plotted to 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\heart rate monitoring system\GERBER\heart rate monitoring system-job.gbrjob'.
+Info: Done.
